@@ -4,4 +4,4 @@ nuffcharge.sh
   and alerts user via SMS if current laptop battery percentage is at optimum level 
   so user can unplug laptop.
 
-  NOTE: This script needs write permissions. Nodify using command chmod +x nuffcharge.sh
+  NOTE: This script needs write permissions. Modify using command chmod +x nuffcharge.sh
